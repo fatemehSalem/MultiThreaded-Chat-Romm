@@ -1,3 +1,5 @@
+package chatRoom;
+
 class User implements Runnable {
     private String name;
     private ChatRoom chatRoom;
